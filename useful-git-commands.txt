@@ -1,0 +1,11 @@
+git stash save <NAME>
+git stash apply <INDEX>
+git stash list
+
+--------------------------
+git log --graph --oneline --decorate
+
+--------------------------
+git bisect start
+
+git checkout - // Go back to previous branch
