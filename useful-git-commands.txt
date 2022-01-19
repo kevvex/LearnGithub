@@ -7,5 +7,8 @@ git log --graph --oneline --decorate
 git log --oneline // Prints a list only with commit id and title at the end
 --------------------------
 git bisect start
+git bisect bad <COMMIT ID>
+git bisect good <COMMIT ID>
+git bisect reset // When done bisecting
 
 git checkout - // Go back to previous branch
