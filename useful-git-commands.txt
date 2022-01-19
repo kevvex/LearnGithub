@@ -4,7 +4,7 @@ git stash list
 
 --------------------------
 git log --graph --oneline --decorate
-
+git log --oneline // Prints a list only with commit id and title at the end
 --------------------------
 git bisect start
 
