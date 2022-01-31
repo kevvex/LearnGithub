@@ -12,3 +12,5 @@ git bisect good <COMMIT ID>
 git bisect reset // When done bisecting
 
 git checkout - // Go back to previous branch
+--------------------------
+git switch - // If in detached head state. Go back to previous state.
